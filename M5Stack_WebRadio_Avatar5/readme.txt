@@ -1,0 +1,8 @@
+これは、M5Stack_TreeView SD-Updater用のWebRadioバイナリファイルです。
+このファイルはSDにコピーしてSD-Updaterから使用します。
+事前にM5Stack_TreeViewのWiFi->WiFi ClientでWiFi用SSIDとPasswordを設定しておく必要があります。
+WebRadioが起動の途中でリブートするときは、M5StackのBボタンを押しながら電源を入れてみてください。
+ボタンはアバターが表示されるまで押し続けてください。
+アバター表示後、M5StackのCボタンを一度だけ押すとURLがEEPROMに書き込まれ再生が始まります。
+次回からは電源を入れると自動的に再生が開始されます。
+動作確認用なのでラジオ局のURLは固定です。
