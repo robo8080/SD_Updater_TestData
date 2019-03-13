@@ -1,0 +1,3 @@
+これは、M5Stack LovyanLauncher用のM5Stack_TinyBasicPlus_CardKBバイナリファイルです。
+このファイルはSDにコピーしてSD-Updaterから使用します。
+CardKBが必要です。
