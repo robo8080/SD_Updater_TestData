@@ -1,0 +1,4 @@
+これは、M5Stack SD-Updater用のM5Stack_TinyBasicPlus_FaceKBバイナリファイルです。
+このファイルはSDにコピーしてSD-Updaterから使用します。
+Faceキーボードが必要です。
+私はFaceキーボードを持っていないので動作は未確認です。
