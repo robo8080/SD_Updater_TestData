@@ -1,0 +1,9 @@
+これは、M5Stack LovyanLauncher用のWebRadioバイナリファイルです。
+このファイルはSDにコピーしてSD-Updaterから使用します。
+事前にLovyanLauncherのWiFi->WiFi ClientでWiFi用SSIDとPasswordを設定しておく必要があります。
+M5StackのBボタンでプレイリストの表示です。
+M5StackのCボタンで再生停止です。
+次回からは電源を入れると自動的に再生が開始されます。
+
+WebRadioが起動の途中でリブートするときは、M5StackのCボタンを押しながら電源を入れてみてください。
+その時ボタンはアバターが表示されるまで押し続けてください。
